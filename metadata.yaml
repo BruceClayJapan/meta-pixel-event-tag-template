@@ -1,0 +1,5 @@
+homepage: "https://bruceclay.jpn.com"
+documentation: ""
+versions:
+  - sha: 186f86cfbcb4f77bd89840f428f18a9c21a8b430
+    changeNotes: Initial Release
